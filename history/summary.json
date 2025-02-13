@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pqc-crypto-lab-ch",
     "status": "up",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 97,
     "timeDay": 97,
     "timeWeek": 97,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {
-      "2025-02-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "randextract.crypto-lab.ch",
