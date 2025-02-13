@@ -11,7 +11,7 @@ sites:
     port: 443
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
-  - name: www.hslu.ch/en/acs
+  - name: hslu.ch/en/acs
     url: https://www.hslu.ch/en/acs
 
 status-website:
