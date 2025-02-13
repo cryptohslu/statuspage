@@ -21,8 +21,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Applied Cyber Security Research Lab ** uptime monitor and status page."
-  introMessage: This uptime monitor and status page uses real-time data from our [GitHub repository](https://github.com/cryptohslu/statuspage). It is generated using the free and open-source tool [Upptime](https://upptime.js.org/).
+  introTitle: "**Applied Cyber Security Research Lab **"
+  introMessage: Uptime monitor and status page from our public websites and services. This site is generated with real-time data from our [GitHub repository](https://github.com/cryptohslu/statuspage) using the free and open-source tool [Upptime](https://upptime.js.org/).
   navbar:
     - title: Status
       href: /
@@ -30,6 +30,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Applied Cyber Security Research Lab
       href: https://www.hslu.ch/en/acs
+
+i18n:
+  footer: "Applied Cyber Security Research Lab © 2025"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
