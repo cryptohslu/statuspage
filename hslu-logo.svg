@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1.5993149in"
+   height="0.5in"
+   viewBox="0 0 153.53423 48.000003"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="hslu-logo.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="/home/iyan/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.27058824"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7082454"
+     inkscape:cx="199.91273"
+     inkscape:cy="67.027841"
+     inkscape:window-width="2048"
+     inkscape:window-height="1084"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     inkscape:document-units="in" />
+  <path
+     d="M 26.403235,0.793623 V 18.578581 H 12.343731 V 0.793623 H 0 V 47.20699 H 12.343746 V 29.223088 H 26.403235 V 47.20699 H 38.747053 V 0.793623 Z m 33.003714,47.206378 c 10.759687,0 17.22841,-5.487675 17.22841,-14.611601 0,-6.413171 -2.904314,-10.314243 -9.967253,-13.289092 l -6.271235,-2.644729 c -3.036068,-1.322365 -3.959969,-2.247861 -3.959969,-3.966951 0,-2.049453 2.046152,-3.438264 5.21427,-3.438264 4.95106,0 8.977484,2.446746 10.231209,2.446746 0.726553,0 1.122694,-0.330846 1.386644,-0.991971 L 76.041148,3.570182 C 71.156557,1.12393 66.47003,0 61.387368,0 51.089709,0 44.357033,5.48772 44.357033,13.620112 c 0,6.346713 2.838439,10.512023 9.24143,13.355117 l 7.392618,3.305839 c 2.442298,1.057979 3.432802,2.181836 3.432802,3.834465 0,2.512828 -1.848664,3.768587 -5.478955,3.768587 -5.676872,0 -10.561466,-2.578124 -11.6177,-2.578124 -0.72597,0 -1.320184,0.462748 -1.518254,1.123858 l -2.244226,8.264308 c 6.006705,2.314321 10.759541,3.305839 15.842201,3.305839 z M 82.773822,47.20699 h 29.703688 v -8.926 c 0,-1.189881 -0.52789,-1.719089 -1.71632,-1.719089 H 95.116909 V 0.793623 H 82.773822 Z m 51.485848,0.793011 c 12.87143,0 19.27456,-6.743581 19.27456,-20.297639 V 0.793623 h -12.34337 v 25.784735 c 0,7.603635 -1.9144,10.512751 -6.93119,10.512751 -5.01692,0 -6.93074,-2.909116 -6.93074,-10.512751 V 0.793623 h -12.34382 v 26.908739 c 0,13.554058 6.403,20.297639 19.27456,20.297639 z"
+     fill="#ffffff"
+     id="path1"
+     style="stroke-width:1.45426" />
+</svg>
