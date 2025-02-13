@@ -34,5 +34,9 @@ status-website:
 i18n:
   footer: "Applied Cyber Security Research Lab © 2025"
 
+
+assignees:
+  - iyanmv
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
