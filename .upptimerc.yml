@@ -19,8 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.drand.ch
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/cryptohslu/statuspage/refs/heads/master/assets/hslu-acs-logo.png
+  # name: Upptime
   introTitle: "**Applied Cyber Security Research Lab **"
   introMessage: Uptime monitor and status page from our public websites and services. This site is generated with real-time data from our [GitHub repository](https://github.com/cryptohslu/statuspage) using the free and open-source tool [Upptime](https://upptime.js.org/).
   navbar:
