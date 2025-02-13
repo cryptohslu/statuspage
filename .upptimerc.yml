@@ -6,7 +6,9 @@ sites:
   - name: reproducible.crypto-lab.ch
     url: https://reproducible.crypto-lab.ch/
   - name: pqc.crypto-lab.ch
-    url: https://pqc.crypto-lab.ch
+    check: "tcp-ping"
+    url: pqc.crypto-lab.ch
+    port: 443
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
   - name: www.hslu.ch/en/acs
