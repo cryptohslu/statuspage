@@ -1,7 +1,7 @@
 url: $QRNG_URL
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2025-02-14T10:53:50.029Z
+status: down
+code: 502
+responseTime: 401
+lastUpdated: 2025-02-14T17:26:56.118Z
 startTime: 2025-02-14T08:55:00.503Z
 generator: Upptime <https://github.com/upptime/upptime>
