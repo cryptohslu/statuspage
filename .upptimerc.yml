@@ -24,7 +24,7 @@ sites:
 status-website:
   cname: status.drand.ch
   logoUrl: https://status.drand.ch/upptime-icon.svg
-  themeUrl: https://status.drand.ch/hslu-theme.css
+  # themeUrl: https://status.drand.ch/hslu-theme.css
   name: Upptime
   introTitle: "**Applied Cyber Security Research Lab **"
   introMessage: Uptime monitor and status page from our public websites and services. This site is generated with real-time data from our [GitHub repository](https://github.com/cryptohslu/statuspage) using the free and open-source tool [Upptime](https://upptime.js.org/).
