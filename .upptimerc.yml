@@ -13,6 +13,11 @@ sites:
     url: https://randextract.crypto-lab.ch/
   - name: ACS QRNG
     url: $QRNG_URL
+  - name: dice.drand.ch
+    url: https://dice.drand.ch/
+    headers:
+      - "Authorization: Basic $DICE_AUTH"
+      - "Content-Type: application/json"
   - name: hslu.ch/en/acs
     url: https://www.hslu.ch/en/acs
 
