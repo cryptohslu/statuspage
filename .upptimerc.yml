@@ -11,7 +11,7 @@ sites:
     port: 443
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
-  - name: ACS QRNG
+  - name: QRNG
     url: $QRNG_URL
   - name: dice.drand.ch
     url: https://dice.drand.ch/
