@@ -78,9 +78,9 @@
     "url": "https://dice.drand.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/dice.drand.ch.ico",
     "slug": "dice-drand-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 435,
     "timeMonth": 440,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-22": 0
+    }
   },
   {
     "name": "hslu.ch/en/acs",
