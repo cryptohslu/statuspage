@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 1224,
+    "time": 777,
+    "timeDay": 1123,
     "timeWeek": 818,
-    "timeMonth": 829,
-    "timeYear": 771,
+    "timeMonth": 839,
+    "timeYear": 777,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 171,
-    "timeWeek": 131,
+    "timeDay": 114,
+    "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 888,
-    "timeWeek": 889,
-    "timeMonth": 863,
-    "timeYear": 825,
+    "time": 827,
+    "timeDay": 934,
+    "timeWeek": 912,
+    "timeMonth": 865,
+    "timeYear": 827,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 447,
-    "timeDay": 618,
-    "timeWeek": 490,
-    "timeMonth": 463,
-    "timeYear": 447,
+    "time": 446,
+    "timeDay": 403,
+    "timeWeek": 477,
+    "timeMonth": 461,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-20": 43
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 443,
-    "timeDay": 604,
-    "timeWeek": 530,
-    "timeMonth": 467,
-    "timeYear": 443,
+    "time": 442,
+    "timeDay": 397,
+    "timeWeek": 521,
+    "timeMonth": 465,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-03-22": 17
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 2048,
-    "timeWeek": 1997,
-    "timeMonth": 2290,
-    "timeYear": 2163,
+    "time": 2152,
+    "timeDay": 1560,
+    "timeWeek": 1968,
+    "timeMonth": 2265,
+    "timeYear": 2152,
     "dailyMinutesDown": {}
   }
 ]
