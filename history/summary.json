@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 828,
-    "timeWeek": 761,
-    "timeMonth": 812,
-    "timeYear": 768,
+    "time": 772,
+    "timeDay": 996,
+    "timeWeek": 833,
+    "timeMonth": 815,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 124,
-    "timeWeek": 126,
+    "timeDay": 140,
+    "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 975,
-    "timeWeek": 889,
-    "timeMonth": 870,
-    "timeYear": 827,
+    "time": 832,
+    "timeDay": 1138,
+    "timeWeek": 951,
+    "timeMonth": 882,
+    "timeYear": 832,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 445,
-    "timeDay": 436,
-    "timeWeek": 479,
+    "time": 446,
+    "timeDay": 465,
+    "timeWeek": 480,
     "timeMonth": 460,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-20": 43
     }
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dice.drand.ch.ico",
     "slug": "dice-drand-ch",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 441,
-    "timeDay": 530,
-    "timeWeek": 482,
-    "timeMonth": 464,
-    "timeYear": 441,
+    "uptimeYear": "99.98%",
+    "time": 444,
+    "timeDay": 616,
+    "timeWeek": 525,
+    "timeMonth": 468,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-03-22": 17
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2144,
-    "timeDay": 1696,
-    "timeWeek": 1893,
-    "timeMonth": 2257,
-    "timeYear": 2144,
+    "time": 2164,
+    "timeDay": 3265,
+    "timeWeek": 2160,
+    "timeMonth": 2293,
+    "timeYear": 2164,
     "dailyMinutesDown": {}
   }
 ]
