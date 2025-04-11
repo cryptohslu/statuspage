@@ -58,9 +58,9 @@
     "url": "$QRNG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qrng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
@@ -70,6 +70,7 @@
     "timeMonth": 460,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2025-04-11": 0,
       "2025-03-20": 43
     }
   },
