@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 750,
-    "timeWeek": 715,
-    "timeMonth": 746,
-    "timeYear": 788,
+    "time": 787,
+    "timeDay": 651,
+    "timeWeek": 700,
+    "timeMonth": 740,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 163,
-    "timeWeek": 108,
+    "timeDay": 148,
+    "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 832,
-    "timeDay": 856,
-    "timeWeek": 758,
-    "timeMonth": 814,
+    "timeDay": 938,
+    "timeWeek": 761,
+    "timeMonth": 803,
     "timeYear": 832,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 452,
-    "timeDay": 771,
-    "timeWeek": 478,
-    "timeMonth": 449,
-    "timeYear": 452,
+    "time": 453,
+    "timeDay": 568,
+    "timeWeek": 501,
+    "timeMonth": 452,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2025-03-20": 43
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 451,
-    "timeDay": 1070,
-    "timeWeek": 493,
-    "timeMonth": 444,
-    "timeYear": 451,
+    "time": 452,
+    "timeDay": 533,
+    "timeWeek": 513,
+    "timeMonth": 446,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2025-03-22": 17
     }
@@ -100,14 +100,14 @@
     "slug": "hslu-ch-en-acs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 2293,
-    "timeDay": 6309,
-    "timeWeek": 3109,
-    "timeMonth": 2502,
+    "timeDay": 2286,
+    "timeWeek": 3197,
+    "timeMonth": 2454,
     "timeYear": 2293,
     "dailyMinutesDown": {
       "2025-06-17": 40
