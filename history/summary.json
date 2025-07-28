@@ -4,10 +4,10 @@
     "url": "https://reproducible.crypto-lab.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/reproducible.crypto-lab.ch.ico",
     "slug": "reproducible-crypto-lab-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 793,
@@ -16,6 +16,7 @@
     "timeMonth": 842,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2025-07-28": 2,
       "2025-07-04": 18
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pqc-crypto-lab-ch",
     "status": "down",
-    "uptime": "98.24%",
+    "uptime": "97.96%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.88%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "98.24%",
+    "uptimeWeek": "52.22%",
+    "uptimeMonth": "88.97%",
+    "uptimeYear": "97.96%",
     "time": 116,
     "timeDay": 0,
     "timeWeek": 114,
     "timeMonth": 119,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-07-28": 26,
+      "2025-07-28": 698,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1239,
@@ -48,10 +49,10 @@
     "url": "https://randextract.crypto-lab.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/randextract.crypto-lab.ch.ico",
     "slug": "randextract-crypto-lab-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 872,
@@ -60,6 +61,7 @@
     "timeMonth": 1063,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2025-07-28": 1,
       "2025-07-04": 16
     }
   },
@@ -68,10 +70,10 @@
     "url": "$QRNG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qrng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 452,
@@ -80,6 +82,7 @@
     "timeMonth": 463,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2025-07-28": 1,
       "2025-07-04": 16,
       "2025-03-20": 43
     }
@@ -89,9 +92,9 @@
     "url": "https://dice.drand.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/dice.drand.ch.ico",
     "slug": "dice-drand-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -101,6 +104,7 @@
     "timeMonth": 456,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-07-04": 15,
       "2025-03-22": 17
     }
