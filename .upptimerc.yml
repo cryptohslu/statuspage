@@ -5,10 +5,15 @@ repo: statuspage # The name of this repository
 sites:
   - name: reproducible.crypto-lab.ch
     url: https://reproducible.crypto-lab.ch/
-  - name: pqc.crypto-lab.ch
-    check: "tcp-ping"
-    url: pqc.crypto-lab.ch
-    port: 443
+  - name: PQC info website
+    url: https://pqc.crypto-lab.ch
+  - name: PQC Digital Signatures
+    url: https://pqc.crypto-lab.ch/sig-charts/
+  - name: PQC TLS
+    url: https://pqc.crypto-lab.ch/tls-charts/
+    headers:
+      - "Authorization: Basic $DICE_AUTH"
+      - "Content-Type: application/json"
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
   - name: QRNG
@@ -16,7 +21,7 @@ sites:
   - name: dice.drand.ch
     url: https://dice.drand.ch/
     headers:
-      - "Authorization: Basic $DICE_AUTH"
+      - "Authorization: Basic $TLS_WEBAPP_AUTH"
       - "Content-Type: application/json"
   - name: hslu.ch/en/acs
     url: https://www.hslu.ch/en/acs
