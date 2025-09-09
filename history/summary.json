@@ -43,19 +43,19 @@
     "url": "https://pqc.crypto-lab.ch/sig-charts/",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-digital-signatures",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 204,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 347,
+    "timeDay": 234,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 10
     }
   },
   {
