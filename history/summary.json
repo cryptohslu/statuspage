@@ -28,9 +28,9 @@
     "url": "https://pqc.crypto-lab.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-info-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,16 +39,18 @@
     "timeWeek": 1072,
     "timeMonth": 1024,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "PQC Digital Signatures",
     "url": "https://pqc.crypto-lab.ch/sig-charts/",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-digital-signatures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,16 +59,18 @@
     "timeWeek": 382,
     "timeMonth": 385,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "PQC TLS",
     "url": "https://pqc.crypto-lab.ch/tls-charts/",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-tls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +79,9 @@
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "randextract.crypto-lab.ch",
