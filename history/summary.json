@@ -28,19 +28,19 @@
     "url": "https://pqc.crypto-lab.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-info-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 713,
-    "timeWeek": 1072,
-    "timeMonth": 1024,
-    "timeYear": 1009,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1011,
+    "timeDay": 941,
+    "timeWeek": 1084,
+    "timeMonth": 1029,
+    "timeYear": 1011,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 26
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://pqc.crypto-lab.ch/sig-charts/",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-digital-signatures",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 377,
-    "timeDay": 304,
-    "timeWeek": 382,
+    "timeDay": 338,
+    "timeWeek": 381,
     "timeMonth": 385,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 26
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "https://pqc.crypto-lab.ch/tls-charts/",
     "icon": "https://icons.duckduckgo.com/ip3/pqc.crypto-lab.ch.ico",
     "slug": "pqc-tls",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 102,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 126,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 127,
+    "timeDay": 151,
+    "timeWeek": 136,
+    "timeMonth": 129,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 26
     }
   },
   {
