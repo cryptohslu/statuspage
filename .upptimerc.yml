@@ -2,6 +2,9 @@
 owner: cryptohslu # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
 
+assignees:
+  - iyanmv
+
 sites:
   - name: reproducible.crypto-lab.ch
     url: https://reproducible.crypto-lab.ch/
@@ -43,10 +46,6 @@ status-website:
 
 i18n:
   footer: "Applied Cyber Security Research Lab © 2025"
-
-
-assignees:
-  - iyanmv
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
