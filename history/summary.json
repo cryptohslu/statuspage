@@ -236,18 +236,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/turn.crypto-lab.ch.ico",
     "slug": "turn-server",
     "status": "down",
-    "uptime": "14.28%",
-    "uptimeDay": "14.28%",
-    "uptimeWeek": "14.28%",
-    "uptimeMonth": "14.28%",
-    "uptimeYear": "14.28%",
+    "uptime": "7.90%",
+    "uptimeDay": "7.90%",
+    "uptimeWeek": "7.90%",
+    "uptimeMonth": "7.90%",
+    "uptimeYear": "7.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 0
+      "2026-02-02": 1
     }
   },
   {
