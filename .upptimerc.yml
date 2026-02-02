@@ -8,6 +8,9 @@ assignees:
 sites:
   - name: reproducible.crypto-lab.ch
     url: https://reproducible.crypto-lab.ch/
+  - name: HSLU drand relay
+    url: https://drand.crypto-lab.ch/v2/beacons/quicknet/info
+    icon: https://drive.switch.ch/index.php/s/d5jsAkauQUhsU2M/download
   - name: PQC info website
     url: https://pqc.crypto-lab.ch
   - name: PQC Digital Signatures
