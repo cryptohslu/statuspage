@@ -18,8 +18,18 @@ sites:
     url: https://randextract.crypto-lab.ch/
   - name: QRNG
     url: $QRNG_URL
-  - name: dice.drand.ch
-    url: https://dice.drand.ch/
+  - name: dice1.drand.ch
+    url: https://dice1.drand.ch/
+    headers:
+      - "Authorization: Basic $TLS_WEBAPP_AUTH"
+      - "Content-Type: application/json"
+  - name: dice2.drand.ch
+    url: https://dice2.drand.ch/
+    headers:
+      - "Authorization: Basic $TLS_WEBAPP_AUTH"
+      - "Content-Type: application/json"
+  - name: dice3.drand.ch
+    url: https://dice3.drand.ch/
     headers:
       - "Authorization: Basic $TLS_WEBAPP_AUTH"
       - "Content-Type: application/json"
@@ -42,7 +52,4 @@ status-website:
       href: https://www.hslu.ch/en/acs
 
 i18n:
-  footer: "Applied Cyber Security Research Lab © 2025"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  footer: "Applied Cyber Security Research Lab © 2026"
