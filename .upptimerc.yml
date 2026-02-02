@@ -17,6 +17,8 @@ sites:
     url: https://pqc.crypto-lab.ch/sig-charts/
   - name: PQC TLS
     url: https://pqc.crypto-lab.ch/tls-charts/
+  - name: PQC Matrix server
+    url: https://matrix.crypto-lab.ch
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
   - name: QRNG
