@@ -14,9 +14,6 @@ sites:
     url: https://pqc.crypto-lab.ch/sig-charts/
   - name: PQC TLS
     url: https://pqc.crypto-lab.ch/tls-charts/
-    headers:
-      - "Authorization: Basic $DICE_AUTH"
-      - "Content-Type: application/json"
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
   - name: QRNG
