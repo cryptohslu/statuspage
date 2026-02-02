@@ -38,6 +38,8 @@ sites:
     headers:
       - "Authorization: Basic $TLS_WEBAPP_AUTH"
       - "Content-Type: application/json"
+  - name: TURN server
+    url: https://turn.crypto-lab.ch:3478
   - name: hslu.ch/en/acs
     url: https://www.hslu.ch/en/acs
 
