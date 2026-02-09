@@ -8,6 +8,7 @@ assignees:
 sites:
   - name: reproducible.crypto-lab.ch
     url: https://reproducible.crypto-lab.ch/
+    __dangerous__body_degraded_if_text_missing: "Reproducible Builds"
   - name: HSLU drand relay
     url: https://drand.crypto-lab.ch/v2/beacons/quicknet/info
     icon: https://drive.switch.ch/index.php/s/d5jsAkauQUhsU2M/download
