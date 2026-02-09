@@ -12,16 +12,22 @@ sites:
   - name: HSLU drand relay
     url: https://drand.crypto-lab.ch/v2/beacons/quicknet/info
     icon: https://drive.switch.ch/index.php/s/d5jsAkauQUhsU2M/download
+    __dangerous__body_degraded_if_text_missing: "quicknet"
   - name: PQC info website
     url: https://pqc.crypto-lab.ch
+    __dangerous__body_degraded_if_text_missing: "PQC visualizations"
   - name: PQC Digital Signatures
     url: https://pqc.crypto-lab.ch/sig-charts/
+    __dangerous__body_degraded_if_text_missing: "Dash"
   - name: PQC TLS
     url: https://pqc.crypto-lab.ch/tls-charts/
+    __dangerous__body_degraded_if_text_missing: "Dash"
   - name: PQC Matrix server
     url: https://matrix.crypto-lab.ch
+    __dangerous__body_degraded_if_text_missing: "Element"
   - name: randextract.crypto-lab.ch
     url: https://randextract.crypto-lab.ch/
+    __dangerous__body_degraded_if_text_missing: "RandExtract"
   - name: QRNG
     url: $QRNG_URL
   - name: dice1.drand.ch
