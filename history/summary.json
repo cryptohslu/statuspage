@@ -258,17 +258,17 @@
     "url": "https://www.hslu.ch/en/acs",
     "icon": "https://icons.duckduckgo.com/ip3/www.hslu.ch.ico",
     "slug": "hslu-ch-en-acs",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 2647,
-    "timeDay": 4730,
-    "timeWeek": 4309,
-    "timeMonth": 4020,
-    "timeYear": 2749,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "86.39%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.93%",
+    "time": 2659,
+    "timeDay": 6173,
+    "timeWeek": 4723,
+    "timeMonth": 4133,
+    "timeYear": 2762,
     "dailyMinutesDown": {
       "2025-06-17": 40,
       "2025-07-10": 60,
@@ -276,7 +276,7 @@
       "2026-02-26": 23,
       "2026-04-17": 1,
       "2026-04-16": 18,
-      "2026-06-08": 0
+      "2026-06-08": 196
     }
   }
 ]
