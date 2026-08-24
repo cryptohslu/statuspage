@@ -30,20 +30,21 @@
     "url": "https://drand.crypto-lab.ch/v2/beacons/quicknet/info",
     "icon": "https://drive.switch.ch/index.php/s/d5jsAkauQUhsU2M/download",
     "slug": "hslu-drand-relay",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 757,
-    "timeDay": 1322,
-    "timeWeek": 680,
-    "timeMonth": 826,
-    "timeYear": 757,
+    "time": 754,
+    "timeDay": 805,
+    "timeWeek": 631,
+    "timeMonth": 809,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2026-06-18": 51,
-      "2026-07-12": 62
+      "2026-07-12": 62,
+      "2026-08-24": 1
     }
   },
   {
