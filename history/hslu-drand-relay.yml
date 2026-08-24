@@ -1,7 +1,7 @@
 url: https://drand.crypto-lab.ch/v2/beacons/quicknet/info
-status: up
-code: 200
-responseTime: 1322
-lastUpdated: 2026-08-23T23:18:45.606Z
+status: degraded
+code: 502
+responseTime: 287
+lastUpdated: 2026-08-24T17:52:22.942Z
 startTime: 2026-02-02T07:30:13.107Z
 generator: Upptime <https://github.com/upptime/upptime>
