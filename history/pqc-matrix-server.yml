@@ -1,7 +1,7 @@
 url: https://matrix.crypto-lab.ch
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2026-10-23T01:13:08.688Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2026-10-23T22:49:04.139Z
 startTime: 2026-02-02T09:04:57.748Z
 generator: Upptime <https://github.com/upptime/upptime>
