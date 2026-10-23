@@ -4,48 +4,52 @@
     "url": "https://reproducible.crypto-lab.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/reproducible.crypto-lab.ch.ico",
     "slug": "hslu-rebuilderd",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 797,
     "timeDay": 914,
     "timeWeek": 700,
     "timeMonth": 797,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 49
+    }
   },
   {
     "name": "HSLU Rebuilderd API v1",
     "url": "https://reproducible.crypto-lab.ch/api/v1/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/reproducible.crypto-lab.ch.ico",
     "slug": "hslu-rebuilderd-api-v1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 604,
     "timeDay": 877,
     "timeWeek": 633,
     "timeMonth": 604,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 44
+    }
   },
   {
     "name": "HSLU drand relay",
     "url": "https://drand.crypto-lab.ch/v2/beacons/quicknet/info",
     "icon": "https://drive.switch.ch/index.php/s/d5jsAkauQUhsU2M/download",
     "slug": "hslu-drand-relay",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "degraded",
+    "uptime": "99.95%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
     "time": 759,
     "timeDay": 858,
     "timeWeek": 616,
@@ -54,7 +58,8 @@
     "dailyMinutesDown": {
       "2026-06-18": 51,
       "2026-07-12": 62,
-      "2026-08-24": 40
+      "2026-08-24": 40,
+      "2026-10-23": 39
     }
   },
   {
@@ -72,7 +77,7 @@
     "timeDay": 801,
     "timeWeek": 843,
     "timeMonth": 864,
-    "timeYear": 896,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-12-09": 26
     }
@@ -113,7 +118,7 @@
     "timeDay": 640,
     "timeWeek": 687,
     "timeMonth": 679,
-    "timeYear": 401,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2025-12-09": 26
     }
@@ -123,58 +128,63 @@
     "url": "nts.crypto-lab.ch",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nts-crypto-lab-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 111,
     "timeDay": 121,
     "timeWeek": 106,
     "timeMonth": 111,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 35
+    }
   },
   {
     "name": "PQC Matrix server",
     "url": "https://matrix.crypto-lab.ch",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.crypto-lab.ch.ico",
     "slug": "pqc-matrix-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 694,
     "timeDay": 1012,
     "timeWeek": 716,
     "timeMonth": 693,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 30
+    }
   },
   {
     "name": "randextract.crypto-lab.ch",
     "url": "https://randextract.crypto-lab.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/randextract.crypto-lab.ch.ico",
     "slug": "randextract-crypto-lab-ch",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.78%",
     "time": 869,
     "timeDay": 942,
     "timeWeek": 710,
     "timeMonth": 840,
-    "timeYear": 846,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2025-11-06": 503,
       "2025-11-05": 38,
       "2025-12-11": 279,
-      "2025-12-27": 332
+      "2025-12-27": 332,
+      "2026-10-23": 25
     }
   },
   {
@@ -182,12 +192,12 @@
     "url": "$QRNG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qrng",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.76%",
     "time": 502,
     "timeDay": 550,
     "timeWeek": 464,
@@ -200,7 +210,8 @@
       "2025-12-27": 332,
       "2026-01-27": 17,
       "2026-02-02": 25,
-      "2026-05-07": 39
+      "2026-05-07": 39,
+      "2026-10-23": 20
     }
   },
   {
@@ -208,64 +219,70 @@
     "url": "https://dice1.drand.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/dice1.drand.ch.ico",
     "slug": "dice1-drand-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 464,
     "timeDay": 406,
     "timeWeek": 419,
     "timeMonth": 439,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 15
+    }
   },
   {
     "name": "dice2.drand.ch",
     "url": "https://dice2.drand.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/dice2.drand.ch.ico",
     "slug": "dice2-drand-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 464,
     "timeDay": 465,
     "timeWeek": 452,
     "timeMonth": 448,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 10
+    }
   },
   {
     "name": "dice3.drand.ch",
     "url": "https://dice3.drand.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/dice3.drand.ch.ico",
     "slug": "dice3-drand-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 455,
     "timeDay": 401,
     "timeWeek": 421,
     "timeMonth": 428,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-23": 5
+    }
   },
   {
     "name": "TURN server",
     "url": "https://turn.crypto-lab.ch/health",
     "icon": "https://icons.duckduckgo.com/ip3/turn.crypto-lab.ch.ico",
     "slug": "turn-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 689,
@@ -274,7 +291,8 @@
     "timeMonth": 640,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-02-02": 34
+      "2026-02-02": 34,
+      "2026-10-23": 1
     }
   },
   {
@@ -292,7 +310,7 @@
     "timeDay": 6884,
     "timeWeek": 4975,
     "timeMonth": 4654,
-    "timeYear": 3582,
+    "timeYear": 3587,
     "dailyMinutesDown": {
       "2026-02-26": 23,
       "2026-04-17": 1,
