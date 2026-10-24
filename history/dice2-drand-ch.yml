@@ -1,7 +1,7 @@
 url: https://dice2.drand.ch/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-24T02:33:03.166Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2026-10-24T09:48:07.232Z
 startTime: 2026-02-02T07:01:05.783Z
 generator: Upptime <https://github.com/upptime/upptime>
